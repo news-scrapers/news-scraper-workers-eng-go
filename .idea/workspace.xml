@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd75069c-4291-4ade-a6e4-86d1d5516aa6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1lN0DHpIIvRg4otD7J5pZeEXUmk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestScraperTheSunUk in news-scrapers-workers-eng-go/dailyScrapers">
+    <configuration name="TestScraper20Minutos in 20MinutosNewsScraper_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="news-scraper-workers-eng-go" />
+      <working_directory value="$PROJECT_DIR$/dailyScrapers" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/dailyScrapers/20MinutosNewsScraper_test.go" />
+      <pattern value="^\QTestScraper20Minutos\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestScraperTheSunUk in news-scrapers-workers-eng-go/dailyScrapers" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="news-scraper-workers-eng-go" />
+      <working_directory value="$PROJECT_DIR$/dailyScrapers" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="news-scrapers-workers-eng-go/dailyScrapers" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestScraperTheSunUk\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestScraperTheSunUk in news-scrapers-workers-eng-go/dailyScrapers" />
+        <item itemvalue="Go Test.TestScraper20Minutos in 20MinutosNewsScraper_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1385" height="181" key="GridCell.Tab.0.bottom" timestamp="1607424006222">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1385" height="181" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1607424006222" />
+    <state width="1385" height="181" key="GridCell.Tab.0.center" timestamp="1607424006221">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1385" height="181" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1607424006221" />
+    <state width="1385" height="181" key="GridCell.Tab.0.left" timestamp="1607424006221">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1385" height="181" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1607424006221" />
+    <state width="1385" height="181" key="GridCell.Tab.0.right" timestamp="1607424006222">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1385" height="181" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1607424006222" />
+    <state width="1385" height="181" key="GridCell.Tab.1.bottom" timestamp="1607424006531">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1385" height="181" key="GridCell.Tab.1.bottom/0.23.1680.949@0.23.1680.949" timestamp="1607424006531" />
+    <state width="1385" height="181" key="GridCell.Tab.1.center" timestamp="1607424006530">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1385" height="181" key="GridCell.Tab.1.center/0.23.1680.949@0.23.1680.949" timestamp="1607424006530" />
+    <state width="1385" height="181" key="GridCell.Tab.1.left" timestamp="1607424006529">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1385" height="181" key="GridCell.Tab.1.left/0.23.1680.949@0.23.1680.949" timestamp="1607424006529" />
+    <state width="1385" height="181" key="GridCell.Tab.1.right" timestamp="1607424006530">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1385" height="181" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1607424006530" />
+    <state x="240" y="181" key="SettingsEditor" timestamp="1607422374552">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="240" y="181" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1607422374552" />
+    <state x="439" y="296" width="598" height="548" key="find.popup" timestamp="1607422263691">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="439" y="296" width="598" height="548" key="find.popup/0.23.1680.949@0.23.1680.949" timestamp="1607422263691" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/dailyScrapers/theSunUkNewsScraper.go</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/dailyScrapers/theSunUkNewsScraper.go</url>
+          <line>88</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/dailyScrapers/theSunUkNewsScraper.go</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
